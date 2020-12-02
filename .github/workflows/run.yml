@@ -8,7 +8,9 @@ on:
   watch:
     types: started
   schedule:
-    - cron: 10,30 8 * * *
+    # 秒 分 时 日 月 周 （年 , 可选)
+    - cron: 30 8 8 * * 
+    
 
 jobs:
   Cloud189Checkin:
