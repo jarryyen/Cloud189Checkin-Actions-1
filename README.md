@@ -1,6 +1,7 @@
 # 钉钉机器人设置最好用关键词的，比如设置成“签到”
 
-# 钉钉机器人直接设置 DDBOT 变量 （https://oapi.dingtalk.com/robot/send?access_token=xxxx）
+# 钉钉机器人直接设置 DDBOT 变量 
+> https://oapi.dingtalk.com/robot/send?access_token=xxxx
 
 # Cloud189Checkin  
 forked from peng4740/Cloud189Checkin-Actions  
