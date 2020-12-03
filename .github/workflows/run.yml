@@ -9,7 +9,7 @@ on:
     types: started
   schedule:
     # 秒 分 时 日 月 周 （年 , 可选)
-    - cron: 30 8 8 * * 
+    - cron: 30 8 4 * * 
     
 
 jobs:
