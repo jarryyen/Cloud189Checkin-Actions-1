@@ -8,8 +8,8 @@ on:
   watch:
     types: started
   schedule:
-    # 秒 分 时 日 月 周 （年 , 可选)
-    - cron: 30 8 4 * * 
+    # 分 时 日 月 周 （年 , 可选) UTC的22:30 北京时间是早上6：30
+    - cron: 30 22 * * * 
     
 
 jobs:
